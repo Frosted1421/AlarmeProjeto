@@ -1,0 +1,137 @@
+C:\Users\lucas\source\repos\valdir\LoginRada\LoginRada\obj\Debug\net8.0-windows\LoginRada.csproj.AssemblyReference.cache
+C:\Users\lucas\source\repos\valdir\LoginRada\LoginRada\obj\Debug\net8.0-windows\LoginRada.Form1.resources
+C:\Users\lucas\source\repos\valdir\LoginRada\LoginRada\obj\Debug\net8.0-windows\LoginRada.csproj.GenerateResource.cache
+C:\Users\lucas\source\repos\valdir\LoginRada\LoginRada\obj\Debug\net8.0-windows\LoginRada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\source\repos\valdir\LoginRada\LoginRada\obj\Debug\net8.0-windows\LoginRada.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\valdir\LoginRada\LoginRada\obj\Debug\net8.0-windows\LoginRada.AssemblyInfo.cs
+C:\Users\lucas\source\repos\valdir\LoginRada\LoginRada\obj\Debug\net8.0-windows\LoginRada.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\valdir\LoginRada\LoginRada\bin\Debug\net8.0-windows\LoginRada.exe
+C:\Users\lucas\source\repos\valdir\LoginRada\LoginRada\bin\Debug\net8.0-windows\LoginRada.deps.json
+C:\Users\lucas\source\repos\valdir\LoginRada\LoginRada\bin\Debug\net8.0-windows\LoginRada.runtimeconfig.json
+C:\Users\lucas\source\repos\valdir\LoginRada\LoginRada\bin\Debug\net8.0-windows\LoginRada.dll
+C:\Users\lucas\source\repos\valdir\LoginRada\LoginRada\bin\Debug\net8.0-windows\LoginRada.pdb
+C:\Users\lucas\source\repos\valdir\LoginRada\LoginRada\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\lucas\source\repos\valdir\LoginRada\LoginRada\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\lucas\source\repos\valdir\LoginRada\LoginRada\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\lucas\source\repos\valdir\LoginRada\LoginRada\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\lucas\source\repos\valdir\LoginRada\LoginRada\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\lucas\source\repos\valdir\LoginRada\LoginRada\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\lucas\source\repos\valdir\LoginRada\LoginRada\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\lucas\source\repos\valdir\LoginRada\LoginRada\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\lucas\source\repos\valdir\LoginRada\LoginRada\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\lucas\source\repos\valdir\LoginRada\LoginRada\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\lucas\source\repos\valdir\LoginRada\LoginRada\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\lucas\source\repos\valdir\LoginRada\LoginRada\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\lucas\source\repos\valdir\LoginRada\LoginRada\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\lucas\source\repos\valdir\LoginRada\LoginRada\obj\Debug\net8.0-windows\LoginRada.csproj.Up2Date
+C:\Users\lucas\source\repos\valdir\LoginRada\LoginRada\obj\Debug\net8.0-windows\LoginRada.dll
+C:\Users\lucas\source\repos\valdir\LoginRada\LoginRada\obj\Debug\net8.0-windows\refint\LoginRada.dll
+C:\Users\lucas\source\repos\valdir\LoginRada\LoginRada\obj\Debug\net8.0-windows\LoginRada.pdb
+C:\Users\lucas\source\repos\valdir\LoginRada\LoginRada\obj\Debug\net8.0-windows\LoginRada.genruntimeconfig.cache
+C:\Users\lucas\source\repos\valdir\LoginRada\LoginRada\obj\Debug\net8.0-windows\ref\LoginRada.dll
+C:\Users\lucas\source\repos\valdir\LoginRada\LoginRada\obj\Debug\net8.0-windows\LoginRada.CadastrarUsuario.resources
+C:\Users\lucas\source\repos\valdir\LoginRada\LoginRada\obj\Debug\net8.0-windows\LoginRada.Form2.resources
+C:\Users\aluno\Desktop\Helio\LoginRada\LoginRada\bin\Debug\net8.0-windows\LoginRada.exe
+C:\Users\aluno\Desktop\Helio\LoginRada\LoginRada\bin\Debug\net8.0-windows\LoginRada.deps.json
+C:\Users\aluno\Desktop\Helio\LoginRada\LoginRada\bin\Debug\net8.0-windows\LoginRada.runtimeconfig.json
+C:\Users\aluno\Desktop\Helio\LoginRada\LoginRada\bin\Debug\net8.0-windows\LoginRada.dll
+C:\Users\aluno\Desktop\Helio\LoginRada\LoginRada\bin\Debug\net8.0-windows\LoginRada.pdb
+C:\Users\aluno\Desktop\Helio\LoginRada\LoginRada\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\aluno\Desktop\Helio\LoginRada\LoginRada\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\aluno\Desktop\Helio\LoginRada\LoginRada\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\aluno\Desktop\Helio\LoginRada\LoginRada\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\aluno\Desktop\Helio\LoginRada\LoginRada\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\aluno\Desktop\Helio\LoginRada\LoginRada\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\aluno\Desktop\Helio\LoginRada\LoginRada\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\aluno\Desktop\Helio\LoginRada\LoginRada\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\aluno\Desktop\Helio\LoginRada\LoginRada\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\aluno\Desktop\Helio\LoginRada\LoginRada\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\aluno\Desktop\Helio\LoginRada\LoginRada\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\aluno\Desktop\Helio\LoginRada\LoginRada\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\aluno\Desktop\Helio\LoginRada\LoginRada\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\aluno\Desktop\Helio\LoginRada\LoginRada\obj\Debug\net8.0-windows\LoginRada.csproj.AssemblyReference.cache
+C:\Users\aluno\Desktop\Helio\LoginRada\LoginRada\obj\Debug\net8.0-windows\LoginRada.CadastrarUsuario.resources
+C:\Users\aluno\Desktop\Helio\LoginRada\LoginRada\obj\Debug\net8.0-windows\LoginRada.Form1.resources
+C:\Users\aluno\Desktop\Helio\LoginRada\LoginRada\obj\Debug\net8.0-windows\LoginRada.Form2.resources
+C:\Users\aluno\Desktop\Helio\LoginRada\LoginRada\obj\Debug\net8.0-windows\LoginRada.csproj.GenerateResource.cache
+C:\Users\aluno\Desktop\Helio\LoginRada\LoginRada\obj\Debug\net8.0-windows\LoginRada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Desktop\Helio\LoginRada\LoginRada\obj\Debug\net8.0-windows\LoginRada.AssemblyInfoInputs.cache
+C:\Users\aluno\Desktop\Helio\LoginRada\LoginRada\obj\Debug\net8.0-windows\LoginRada.AssemblyInfo.cs
+C:\Users\aluno\Desktop\Helio\LoginRada\LoginRada\obj\Debug\net8.0-windows\LoginRada.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\Helio\LoginRada\LoginRada\obj\Debug\net8.0-windows\LoginRada.csproj.Up2Date
+C:\Users\aluno\Desktop\Helio\LoginRada\LoginRada\obj\Debug\net8.0-windows\LoginRada.dll
+C:\Users\aluno\Desktop\Helio\LoginRada\LoginRada\obj\Debug\net8.0-windows\refint\LoginRada.dll
+C:\Users\aluno\Desktop\Helio\LoginRada\LoginRada\obj\Debug\net8.0-windows\LoginRada.pdb
+C:\Users\aluno\Desktop\Helio\LoginRada\LoginRada\obj\Debug\net8.0-windows\LoginRada.genruntimeconfig.cache
+C:\Users\aluno\Desktop\Helio\LoginRada\LoginRada\obj\Debug\net8.0-windows\ref\LoginRada.dll
+C:\Users\aluno\Desktop\Helio\LoginRada\LoginRada\obj\Debug\net8.0-windows\LoginRada.Confirmar.resources
+E:\Helio\LoginRada\LoginRada\bin\Debug\net8.0-windows\LoginRada.exe
+E:\Helio\LoginRada\LoginRada\bin\Debug\net8.0-windows\LoginRada.deps.json
+E:\Helio\LoginRada\LoginRada\bin\Debug\net8.0-windows\LoginRada.runtimeconfig.json
+E:\Helio\LoginRada\LoginRada\bin\Debug\net8.0-windows\LoginRada.dll
+E:\Helio\LoginRada\LoginRada\bin\Debug\net8.0-windows\LoginRada.pdb
+E:\Helio\LoginRada\LoginRada\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+E:\Helio\LoginRada\LoginRada\bin\Debug\net8.0-windows\Google.Protobuf.dll
+E:\Helio\LoginRada\LoginRada\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+E:\Helio\LoginRada\LoginRada\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+E:\Helio\LoginRada\LoginRada\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+E:\Helio\LoginRada\LoginRada\bin\Debug\net8.0-windows\MySql.Data.dll
+E:\Helio\LoginRada\LoginRada\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+E:\Helio\LoginRada\LoginRada\bin\Debug\net8.0-windows\ZstdSharp.dll
+E:\Helio\LoginRada\LoginRada\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+E:\Helio\LoginRada\LoginRada\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+E:\Helio\LoginRada\LoginRada\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+E:\Helio\LoginRada\LoginRada\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+E:\Helio\LoginRada\LoginRada\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+E:\Helio\LoginRada\LoginRada\obj\Debug\net8.0-windows\LoginRada.csproj.AssemblyReference.cache
+E:\Helio\LoginRada\LoginRada\obj\Debug\net8.0-windows\LoginRada.CadastrarUsuario.resources
+E:\Helio\LoginRada\LoginRada\obj\Debug\net8.0-windows\LoginRada.Confirmar.resources
+E:\Helio\LoginRada\LoginRada\obj\Debug\net8.0-windows\LoginRada.Form1.resources
+E:\Helio\LoginRada\LoginRada\obj\Debug\net8.0-windows\LoginRada.Form2.resources
+E:\Helio\LoginRada\LoginRada\obj\Debug\net8.0-windows\LoginRada.csproj.GenerateResource.cache
+E:\Helio\LoginRada\LoginRada\obj\Debug\net8.0-windows\LoginRada.GeneratedMSBuildEditorConfig.editorconfig
+E:\Helio\LoginRada\LoginRada\obj\Debug\net8.0-windows\LoginRada.AssemblyInfoInputs.cache
+E:\Helio\LoginRada\LoginRada\obj\Debug\net8.0-windows\LoginRada.AssemblyInfo.cs
+E:\Helio\LoginRada\LoginRada\obj\Debug\net8.0-windows\LoginRada.csproj.CoreCompileInputs.cache
+E:\Helio\LoginRada\LoginRada\obj\Debug\net8.0-windows\LoginRada.csproj.Up2Date
+E:\Helio\LoginRada\LoginRada\obj\Debug\net8.0-windows\LoginRada.dll
+E:\Helio\LoginRada\LoginRada\obj\Debug\net8.0-windows\refint\LoginRada.dll
+E:\Helio\LoginRada\LoginRada\obj\Debug\net8.0-windows\LoginRada.pdb
+E:\Helio\LoginRada\LoginRada\obj\Debug\net8.0-windows\LoginRada.genruntimeconfig.cache
+E:\Helio\LoginRada\LoginRada\obj\Debug\net8.0-windows\ref\LoginRada.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Projetos III\LoginRada\LoginRada\obj\Debug\net8.0-windows\LoginRada.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Projetos III\LoginRada\LoginRada\obj\Debug\net8.0-windows\LoginRada.CadastrarUsuario.resources
+C:\Users\lucas\OneDrive\Área de Trabalho\Projetos III\LoginRada\LoginRada\obj\Debug\net8.0-windows\LoginRada.Confirmar.resources
+C:\Users\lucas\OneDrive\Área de Trabalho\Projetos III\LoginRada\LoginRada\obj\Debug\net8.0-windows\LoginRada.Form1.resources
+C:\Users\lucas\OneDrive\Área de Trabalho\Projetos III\LoginRada\LoginRada\obj\Debug\net8.0-windows\LoginRada.Form2.resources
+C:\Users\lucas\OneDrive\Área de Trabalho\Projetos III\LoginRada\LoginRada\obj\Debug\net8.0-windows\LoginRada.csproj.GenerateResource.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Projetos III\LoginRada\LoginRada\obj\Debug\net8.0-windows\LoginRada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Área de Trabalho\Projetos III\LoginRada\LoginRada\obj\Debug\net8.0-windows\LoginRada.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Projetos III\LoginRada\LoginRada\obj\Debug\net8.0-windows\LoginRada.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Área de Trabalho\Projetos III\LoginRada\LoginRada\obj\Debug\net8.0-windows\LoginRada.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Projetos III\LoginRada\LoginRada\obj\Debug\net8.0-windows\LoginRada.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Projetos III\LoginRada\LoginRada\obj\Debug\net8.0-windows\refint\LoginRada.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Projetos III\LoginRada\LoginRada\obj\Debug\net8.0-windows\LoginRada.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\Projetos III\LoginRada\LoginRada\bin\Debug\net8.0-windows\LoginRada.exe
+C:\Users\lucas\OneDrive\Área de Trabalho\Projetos III\LoginRada\LoginRada\bin\Debug\net8.0-windows\LoginRada.deps.json
+C:\Users\lucas\OneDrive\Área de Trabalho\Projetos III\LoginRada\LoginRada\bin\Debug\net8.0-windows\LoginRada.runtimeconfig.json
+C:\Users\lucas\OneDrive\Área de Trabalho\Projetos III\LoginRada\LoginRada\bin\Debug\net8.0-windows\LoginRada.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Projetos III\LoginRada\LoginRada\bin\Debug\net8.0-windows\LoginRada.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\Projetos III\LoginRada\LoginRada\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Projetos III\LoginRada\LoginRada\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Projetos III\LoginRada\LoginRada\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Projetos III\LoginRada\LoginRada\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Projetos III\LoginRada\LoginRada\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Projetos III\LoginRada\LoginRada\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Projetos III\LoginRada\LoginRada\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Projetos III\LoginRada\LoginRada\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Projetos III\LoginRada\LoginRada\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Projetos III\LoginRada\LoginRada\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Projetos III\LoginRada\LoginRada\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Projetos III\LoginRada\LoginRada\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Projetos III\LoginRada\LoginRada\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Projetos III\LoginRada\LoginRada\obj\Debug\net8.0-windows\LoginRada.csproj.Up2Date
+C:\Users\lucas\OneDrive\Área de Trabalho\Projetos III\LoginRada\LoginRada\obj\Debug\net8.0-windows\LoginRada.genruntimeconfig.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Projetos III\LoginRada\LoginRada\obj\Debug\net8.0-windows\ref\LoginRada.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Projetos III\LoginRada\LoginRada\obj\Debug\net8.0-windows\LoginRada.RemoverUsuario.resources
+C:\Users\lucas\OneDrive\Área de Trabalho\Projetos III\LoginRada\LoginRada\obj\Debug\net8.0-windows\LoginRada.Editar.resources
